@@ -1,6 +1,6 @@
 # SemanticSeek
 
-**SemanticSeek** — система семантического поиска статей из набора данных **BBC News** с использованием FAISS и Sentence
+**SemanticSeek** — семантический поиска статей из набора данных **BBC News** с использованием FAISS и Sentence
 Transformers.
 
 ## dataset
@@ -49,7 +49,7 @@ bbc news website  after giving the royal academy of engineering 2004 hinton lect
 "technology advancements" ищем технологические достижения - статья о различие между изобретением и инновацией.
 
 
-2. `financial offence"`
+2. `financial offence`
 ```
 --- Результат 1 ---
 Категория: tech
@@ -61,6 +61,6 @@ may be applying for jobs which give them access to confidential customer data. t
 that they will instead steal something far more valuable in our digital society - our identities. armed with the personal details that a bank holds
 ...
 ```
-"financial offence"" финансовые преступления - Статья про угрозу кражи личных данных через сотрудников финансовых учреждений
+"financial offence" финансовые преступления - cтатья про угрозу кражи личных данных через сотрудников финансовых учреждений
 
 
