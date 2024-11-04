@@ -91,8 +91,7 @@ modules.xml
 # End of https://www.toptal.com/developers/gitignore/api/pycharm+iml
 
 # Исключить виртуальное окружение
-venv/
+/venv
 
 # Исключить специфичные для пользователя настройки PyCharm
-.idea/profile_settings.xml
-.idea/vcs.xml
+/.idea/*
